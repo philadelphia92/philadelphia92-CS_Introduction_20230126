@@ -4,4 +4,4 @@ int n=58;
 if(n/10>n%10)
 Console.WriteLine("Первое число");
 else
-Console.WriteLine("Второе число");
+Console.WriteLine("Второе числo");
